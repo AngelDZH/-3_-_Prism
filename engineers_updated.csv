@@ -1,0 +1,13 @@
+﻿engineer_id,name,region,office_id,shift_start,shift_end,skill_local,skill_connection,skill_emergency,transport_type
+ENG_01,Инженер 01,east,OFFICE_EAST,08:00,16:00,1,1,0,public_transport
+ENG_02,Инженер 02,east,OFFICE_EAST,13:00,21:00,0,1,0,public_transport
+ENG_03,Инженер 03,east,OFFICE_EAST,14:00,22:00,0,1,1,car
+ENG_04,Инженер 04,east,OFFICE_EAST,08:00,16:00,1,1,0,public_transport
+ENG_05,Инженер 05,east,OFFICE_EAST,09:00,17:00,1,0,0,pedestrian
+ENG_06,Инженер 06,east,OFFICE_EAST,09:00,17:00,0,1,0,public_transport
+ENG_07,Инженер 07,east,OFFICE_EAST,10:00,18:00,1,1,1,car
+ENG_08,Инженер 08,east,OFFICE_EAST,13:00,21:00,1,1,0,bicycle
+ENG_09,Инженер 09,east,OFFICE_EAST,14:00,22:00,0,1,0,public_transport
+ENG_10,Инженер 10,east,OFFICE_EAST,14:00,22:00,1,0,1,pedestrian
+ENG_11,Инженер 11,east,OFFICE_EAST,10:00,18:00,0,1,1,public_transport
+ENG_12,Инженер 12,east,OFFICE_EAST,10:00,18:00,1,0,0,car

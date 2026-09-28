@@ -1,0 +1,5 @@
+﻿work_type,bk_request_type,required_skill,travel_norm_min,technical_time_min,documents_time_min,base_norm_min,service_time_min,priority_rank
+connection,Подключение,connection,20,60,10,90,70,2
+local,Локальная заявка,local,20,30,0,50,30,3
+emergency,Глобальная проблема,emergency,20,80,0,100,80,1
+equipment_order,Дозаказ,connection,20,10,10,40,20,3
